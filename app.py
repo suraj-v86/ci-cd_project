@@ -10,7 +10,7 @@ def hello():
         <head>
             <style>
                 body {
-                    background-color: blue;  /* Blue background */
+                    background-color: lightblue;  /* lightBlue background */
                     color: white;             /* White text for contrast */
                     font-family: Arial, sans-serif;
                     text-align: center;

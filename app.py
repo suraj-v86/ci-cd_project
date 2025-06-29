@@ -11,7 +11,7 @@ def hello():
             <style>
                 body {
                     background-color: lightblue;  /* lightBlue background */
-                    color: white;             /* White text for contrast */
+                    color: black;             /* black text for contrast */
                     font-family: Arial, sans-serif;
                     text-align: center;
                     padding: 50px;
@@ -19,7 +19,7 @@ def hello():
             </style>
         </head>
         <body>
-            <h1>Hello from Docker!</h1>
+            <h1>Hello from Jenkins!</h1>
         </body>
     </html>
     """

@@ -11,7 +11,7 @@ def hello():
             <style>
                 body {
                     background-color: lightblue;  /* lightBlue background */
-                    color: black;             /* black text for contrast */
+                    color: lightblack;             /* lightblack text for contrast */
                     font-family: Arial, sans-serif;
                     text-align: center;
                     padding: 50px;

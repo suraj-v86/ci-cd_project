@@ -19,7 +19,7 @@ def hello():
             </style>
         </head>
         <body>
-            <h1>Hello from Jenkins!</h1>
+            <h1>Hello from Suraj!</h1>
         </body>
     </html>
     """
